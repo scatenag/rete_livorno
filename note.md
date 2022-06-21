@@ -36,3 +36,11 @@ admin admin
 
 da interfaccia web, console
 exceute ping 193.206.136.216
+
+## Controllare coppia
+controllare gbic
+controllare scatoletta 
+monodale lx long range
+dalla 11 alla 24 tutte ispra = 14 coppie
+se coppie provare sulla coppia 11 invece della 6
+so 24 coppie
