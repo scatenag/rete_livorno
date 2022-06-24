@@ -48,3 +48,9 @@ so 24 coppie
 ## Punto punto
 193.206.137.128/31
 sempre con 129 lato Ispra e 128 Livorno/Unipi.
+
+## Dhcp rinnovo
+ipconfig /release
+
+## VPN Livorno
+gateli.isprambiente.it 10443
